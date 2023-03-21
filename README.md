@@ -1,2 +1,2 @@
-# city_service_info
+# City service information
 Information regarding electrical or water shortages during the day.
